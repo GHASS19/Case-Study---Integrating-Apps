@@ -23,7 +23,7 @@
 - Getting the distribution of the data
 - Permutation test
 
-#4. Evaluating and concluding
+# 4. Evaluating and concluding
 
 - What is our conclusion?
 - What is our decision?
