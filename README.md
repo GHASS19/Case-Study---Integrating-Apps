@@ -1,4 +1,4 @@
-# Case-Study-Integrating-Apps
+# Integrating Apps Case Study
 11.3
 
 # 1. Sourcing and loading
