@@ -5,7 +5,8 @@
 # 1. Sourcing and loading
 
 - Load the two datasets
-- Pick the columns that we are going to work with
+- Pick the columns that we are going to work with:
+
 1. Google:
  
 a. Category (Do we need this?)
