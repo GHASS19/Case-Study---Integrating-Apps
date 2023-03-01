@@ -10,8 +10,11 @@
 1. Google: 
 
 a. Category (Do we need this?)
+
 b. Rating
+
 c. Reviews
+
 d. Price (maybe)
 
 2. Apple:
