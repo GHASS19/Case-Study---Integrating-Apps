@@ -7,7 +7,7 @@
 - Load the two datasets
 - Pick the columns that we are going to work with:
 
-1. Google: 
+## 1. Google: 
 
 a. Category (Do we need this?)
 
@@ -17,7 +17,7 @@ c. Reviews
 
 d. Price (maybe)
 
-2. Apple:
+## 2. Apple:
 
 a. prime_genre (Do we need this?)
 
