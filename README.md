@@ -1,6 +1,6 @@
 # Integrating Apps Case Study
 
-![image](https://user-images.githubusercontent.com/86930309/222279946-f838c79d-0c49-4bdc-bac0-08d30c7089d9.png)
+![image](https://user-images.githubusercontent.com/86930309/222280033-f03e2a62-1024-4319-a972-ac927201e676.png)
 
 # 1. Sourcing and loading
 
