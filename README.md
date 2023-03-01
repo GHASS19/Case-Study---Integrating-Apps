@@ -8,23 +8,23 @@
 - Pick the columns that we are going to work with
 1. Google:
  
-Category # Do we need this?
+a. Category # Do we need this?
 
-Rating
+b. Rating
 
-Reviews
+c. Reviews
 
-Price (maybe)
+d. Price (maybe)
 
 2. Apple:
 
-prime_genre # Do we need this?
+a. prime_genre # Do we need this?
 
-user_rating
+b. user_rating
 
-rating_count_tot
+c. rating_count_tot
 
-price (maybe)
+d. price (maybe)
 
 - Subsetting the data on this basis
 
