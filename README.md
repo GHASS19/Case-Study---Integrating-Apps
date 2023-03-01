@@ -7,14 +7,23 @@
 - Load the two datasets
 - Pick the columns that we are going to work with
 1. Google:
+ 
 Category # Do we need this?
+
 Rating
+
 Reviews
+
 Price (maybe)
+
 2. Apple:
+
 prime_genre # Do we need this?
+
 user_rating
+
 rating_count_tot
+
 price (maybe)
 
 - Subsetting the data on this basis
