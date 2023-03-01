@@ -7,14 +7,10 @@
 - Load the two datasets
 - Pick the columns that we are going to work with:
 
-1. Google:
- 
+1. Google: 
 a. Category (Do we need this?)
-
 b. Rating
-
 c. Reviews
-
 d. Price (maybe)
 
 2. Apple:
