@@ -1,5 +1,7 @@
 # Integrating Apps Case Study
 
+![image](https://user-images.githubusercontent.com/86930309/222279946-f838c79d-0c49-4bdc-bac0-08d30c7089d9.png)
+
 # 1. Sourcing and loading
 
 - Load the two datasets
