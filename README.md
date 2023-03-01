@@ -8,7 +8,7 @@
 - Pick the columns that we are going to work with
 1. Google:
  
-a. Category # Do we need this?
+a. Category (Do we need this?)
 
 b. Rating
 
@@ -18,7 +18,7 @@ d. Price (maybe)
 
 2. Apple:
 
-a. prime_genre # Do we need this?
+a. prime_genre (Do we need this?)
 
 b. user_rating
 
