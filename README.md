@@ -58,7 +58,7 @@ alternative: the observed difference in the average ratings of apple and google 
 
 The significance level will be 0.05.
 
-- Getting the distribution of the data:
+- The distribution of the data:
 
 Apple's left skewed ratings distribution
 
