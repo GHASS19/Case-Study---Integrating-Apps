@@ -6,7 +6,7 @@
 
 # 1. Sourcing and loading
 
-- Load the two datasets
+### - Load the two datasets
 - Pick the columns that we are going to work with:
 
 ### Google: 
@@ -29,7 +29,7 @@ c. rating_count_tot
 
 d. price (maybe)
 
-- Subsetting the data on this basis
+### - Subsetting the data on this basis
 
 # 2. Cleaning, transforming and visualizing
 
