@@ -45,7 +45,8 @@ d. price (maybe)
 - Google has a mean user rating of 4.191757.
 
 ![image](https://user-images.githubusercontent.com/86930309/222649259-6032c723-5137-4ee8-9d21-16cc14a993f3.png)
-The boxplot shows the ratings are pretty similar.
+
+The boxplot shows the distribution of the ratings.
 
 # 3. Modelling
 
@@ -68,6 +69,7 @@ Google's left skewed rating distribution
 - Permutation test
 
 ![image](https://user-images.githubusercontent.com/86930309/222651491-363111e8-8d8e-471c-a88c-117054e3eee8.png)
+
 Here we have a pretty normal distribution after simulating 1,000 permutations of the average platforms ratings.
 
 # 4. Evaluating and concluding
