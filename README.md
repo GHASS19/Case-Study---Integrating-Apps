@@ -6,7 +6,8 @@
 
 # 1. Sourcing and loading
 
-- Load the two datasets
+- Load the two datasets.
+
 - Pick the columns that we are going to work with:
 
 ### Google: 
@@ -29,21 +30,31 @@ c. rating_count_tot
 
 d. price (maybe)
 
-- Subsetting the data on this basis
+- Subsetting the data on this basis.
 
 # 2. Cleaning, transforming and visualizing
 
-- Check the data types and fix them
-- Add a platform column to both the Apple and the Google dataframes
-- Changing the column names to prepare for a join
-- Join the two data sets
-- Eliminate the NaN values
-- Filter only those apps that have been reviewed at least once
-- Summarize the data visually and analytically (by the column platform)
+- Check the data types and fix them. Changed the data type of a few columns.
+- Add a platform column to both the Apple and the Google dataframes. Now we can add both dataframes together and compare the reviews.
+- Changing the column names to prepare for a join.
+- Join the two data sets.
+- Eliminate the NaN values.
+- Filter only those apps that have been reviewed at least once.
+- Summarize the data visually and analytically (by the column platform).
+- Apple has a mean user rating of 4.049697.
+- Google has a mean user rating of 4.191757.
+
+![image](https://user-images.githubusercontent.com/86930309/222649259-6032c723-5137-4ee8-9d21-16cc14a993f3.png)
+
+The boxplot shows the ratings are pretty similar.
 
 # 3. Modelling
 
-- Hypothesis formulation
+- Hypothesis formulation:
+null: the observed difference in the mean rating of Apple Store and Google Play apps is due to chance (and thus not due to the platform).
+alternative: the observed difference in the average ratings of apple and google users is not due to chance (and is actually due to platform)
+
+We're also going to pick a significance level of 0.05.
 - Getting the distribution of the data
 - Permutation test
 
