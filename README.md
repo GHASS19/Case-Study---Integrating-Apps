@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/86930309/222280033-f03e2a62-1024-4319-a972-ac927201e676.png)
 
-#Did Apple Store apps receive better reviews than Google Play apps?
+# Our main objective is to find out if Apple Store apps received better reviews than the Google Play apps?
 
 # 1. Sourcing and loading
 
