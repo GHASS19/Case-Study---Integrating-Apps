@@ -61,9 +61,11 @@ The significance level will be 0.05.
 - Getting the distribution of the data:
 
 Apple's left skewed ratings distribution
+
 ![image](https://user-images.githubusercontent.com/86930309/222650214-381e48ab-0e7e-459c-8c39-76e92fd3dcdb.png)
 
 Google's left skewed rating distribution
+
 ![image](https://user-images.githubusercontent.com/86930309/222650358-9dc8ab19-e630-4fb0-becd-476969b5fbfe.png)
 
 - Permutation test
