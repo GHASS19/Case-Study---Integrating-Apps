@@ -17,7 +17,7 @@ c. Reviews
 
 d. Price (maybe)
 
-## 2. Apple:
+### 2. Apple:
 
 a. prime_genre (Do we need this?)
 
