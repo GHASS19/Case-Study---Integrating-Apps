@@ -8,7 +8,7 @@
 
 - Load the two datasets.
 
-- Pick the columns that we are going to work with:
+- The columns that we are going to work with:
 
 ### Google: 
 
